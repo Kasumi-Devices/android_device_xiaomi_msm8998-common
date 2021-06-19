@@ -372,4 +372,7 @@
 
     <!-- Whether device has physical tri state switch -->
     <bool name="config_hasAlertSlider">true</bool>
+	
+    <!-- Flag indicating whether we should enable the adaptive sleep.-->
+    <bool name="config_adaptive_sleep_available">true</bool>
 </resources>
